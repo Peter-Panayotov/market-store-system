@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dffdee53-bbd1-41a2-b9af-5da4e29716ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YGzlxpVV2FQe7HB0rNdm22SVbQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="MarketStoreSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="MarketStoreSystem" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dffdee53-bbd1-41a2-b9af-5da4e29716ef" name="Default Changelist" comment="" />
+      <created>1582583873559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582583873559</updated>
+      <workItem from="1582583876575" duration="2711000" />
+      <workItem from="1582640176222" duration="15437000" />
+      <workItem from="1582731148525" duration="4147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="213" width="374" height="580" key="#com.intellij.ide.util.MemberChooser" timestamp="1582663182597">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state x="1060" y="213" width="374" height="580" key="#com.intellij.ide.util.MemberChooser/0.33.1920.1047@0.33.1920.1047" timestamp="1582663182597" />
+    <state width="1876" height="175" key="GridCell.Tab.0.bottom" timestamp="1582735763629">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state width="1876" height="175" key="GridCell.Tab.0.bottom/0.33.1920.1047@0.33.1920.1047" timestamp="1582735763629" />
+    <state width="1876" height="175" key="GridCell.Tab.0.center" timestamp="1582735763628">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state width="1876" height="175" key="GridCell.Tab.0.center/0.33.1920.1047@0.33.1920.1047" timestamp="1582735763628" />
+    <state width="1876" height="175" key="GridCell.Tab.0.left" timestamp="1582735763628">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state width="1876" height="175" key="GridCell.Tab.0.left/0.33.1920.1047@0.33.1920.1047" timestamp="1582735763628" />
+    <state width="1876" height="175" key="GridCell.Tab.0.right" timestamp="1582735763629">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state width="1876" height="175" key="GridCell.Tab.0.right/0.33.1920.1047@0.33.1920.1047" timestamp="1582735763629" />
+  </component>
+</project>
